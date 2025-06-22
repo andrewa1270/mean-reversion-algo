@@ -1,2 +1,5 @@
 # mean-reversion-algo
-Mean reversion trading strategy.
+Backtesting a mean reversion trading strategy
+
+# Results
+TBC
